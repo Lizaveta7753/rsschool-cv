@@ -1,7 +1,7 @@
 # rsschool-cv
 ## My resume
 
-__Personal__ | __information__
+*Personal* | *information*
 ------------ | -------------
 __First Name__ | Lizaveta
 __Last Name__ | Sialitskaya
